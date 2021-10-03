@@ -58,7 +58,7 @@ echo $beck->frase()->frase1()->valorNumero();
 
 echo $beck->molestia()->numero();
 echo $beck->molestia()->texto();
-
+```
 ### Ejemplo
 
 Se elaboró un ejemplo de implementación sencillo con Bootstrap y CkEditor, 
