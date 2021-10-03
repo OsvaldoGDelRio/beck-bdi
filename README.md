@@ -61,6 +61,7 @@ echo $beck->molestia()->texto();
 
 ### Ejemplo
 
-Se elaboró un ejemplo de implementación sencillo con Bootstrap y CkEditor, se encuentra en al carpeta web y en el siguiente enlace:
+Se elaboró un ejemplo de implementación sencillo con Bootstrap y CkEditor, 
+se encuentra en al carpeta web y en el siguiente enlace:
 
-[Prueba BECK:BDI - Síntomas de depresión](https://beckbdi.ticsa.org.mx/)
+[BECK:BDI](https://beckbdi.ticsa.org.mx)
